@@ -45,7 +45,6 @@ Assign column names and merge to create one data set.
 
 #### Section 2. Extract only the measurements on the mean and standard deviation for each measurement.
 
-Create a logcal vector that contains TRUE values for the ID, mean and stdev columns and FALSE values for the others. Subset this data to keep only the necessary columns.
 Create a logical vector that contains TRUE values for the ID, mean and stdev columns and FALSE values for the others. Subset this data to keep only the necessary columns.
 
 #### Section 3. Use descriptive activity names to name the activities in the data set
